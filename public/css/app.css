@@ -2,13 +2,13 @@ div.container {
 	margin-top: 20px;
 }
 
-div.ad-title {
+div.annonce-titre {
 	padding : 2em;
 	background-size: cover;
 	background-position: center center;
 }
 
-div.ad-title h1, div.ad-title p {
+div.annonce-titre h1, div.annonce-titre p {
 	color: white;
 	text-shadow : 3px 3px 3px rgba(0,0,0,0.5);
 }
